@@ -1,1 +1,1 @@
-My readme
+message:Starting to code today,so cool
